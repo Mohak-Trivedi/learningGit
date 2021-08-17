@@ -1,0 +1,7 @@
+Hello, my name is Mohak!
+
+version of the files are saved.
+who made the changes and what are the changes are saved.
+.git local repo
+
+hello my favorite color is orange.
